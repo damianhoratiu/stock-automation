@@ -1,3 +1,5 @@
+from __future__ import annotations
+
 PLATFORMS = {
     "adobe": {"label": "Adobe Stock", "status_key": "ftp_adobe_done"},
     "shutterstock": {"label": "Shutterstock", "status_key": "ftp_shutter_done"},
