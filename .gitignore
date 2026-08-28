@@ -1,0 +1,11 @@
+.env
+config.json
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+logs/
+photos/
+*.log
+StockAutomation.app/
+.thumbnails_temp/
